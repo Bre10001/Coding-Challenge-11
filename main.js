@@ -30,3 +30,4 @@ placeOrderButton.addEventListener('click', function() { //always for button to b
     
     orderSummary.textContent = `You ordered ${quantity} of ${selectedProduct} for a total price: $${totalPrice}`; // displays the order summary showing product and total price 
 });
+
